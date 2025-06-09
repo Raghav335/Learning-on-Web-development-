@@ -35,4 +35,4 @@ You can view the live preview of the project here:
 
 Feel free to fork this repository, raise issues or suggestions, and connect with me.
 
-#> Made with ❤️ by Raghav Gupta.
+> Made with ❤️ by Raghav Gupta.
